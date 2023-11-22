@@ -13,3 +13,9 @@ I am a software developer specializing in machine learning applications and web 
 ##### Beyond The Professional
 
 Beyond my professional life, I am a violinist and I currently play in a quartet casually and a trio that is rehearsing an _Interstellar Medley_ which I had arranged the music for. I also play semi-regularly for the local community theater.
+
+#### Links
+
+LinkedIn: [https://www.linkedin.com/in/martin-alejandro-jimenez/](https://www.linkedin.com/in/martin-alejandro-jimenez/)
+<br>
+Github: [https://github.com/martinJimenez6](https://github.com/martinJimenez6)
